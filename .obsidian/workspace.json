@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "aed5270de7d13ef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "217c776779df6c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13e5d55199e14aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Stories/Jason's Journal/AA358.10.27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a2693d63b455863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon Delvers/Dungeon Delvers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e731d2148a5b1838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypno Slutz/Characters/Angela Sparks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0996eb5ea0f4344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypno Slutz/Characters/Megan Tabor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68ceb6578599f721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypno Slutz/Characters/Sam Wagner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fe25a88b592bb31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e7fc1edb9b7a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8c95faa8e1af5c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "91047296588a1765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "180511f8c0a3aa7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abd49f48ab4c84e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9d67932a8ba580b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18421f9fc65b31b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f6dd24d8fb3cb1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adce354119ff97c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Old Stories/Jason's Journal/AA358.10.27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81aa3d0d0aaff58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Old Stories/Jason's Journal/AA358.10.27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bad4e86e4b55df3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a05fe62a8f581d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Old Stories/Jason's Journal/AA358.10.27.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d13e5d55199e14aa",
+  "lastOpenFiles": [
+    "Old Stories/Old Stories.md",
+    "Old Stories/Jason's Journal/AA358.10.26.md",
+    "Old Stories/Jason's Journal/AA358.12.07.md",
+    "Old Stories/Jason's Journal/AA358.10.27.md",
+    "Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
+    "Old Stories/Jason's Journal/Jason's Journal.md",
+    "Dungeon Delvers/Toyland/01 - The First Delve.md",
+    "Dungeon Delvers/Dungeon Delvers.md",
+    "Dungeon Delvers/Helmer House",
+    "Dungeon Delvers/Characters",
+    "Dungeon Delvers/Toyland",
+    "Old Stories/Jason's Journal/AA358.10.22b.md",
+    "Old Stories/Jason's Journal/AA358.10.22a.md",
+    "Old Stories/Jason's Journal/AA358.10.17.md",
+    "Old Stories/Jason's Journal/AA358.10.16.md",
+    "Old Stories/Jason's Journal/AA358.10.15.md",
+    "Old Stories/Jason's Journal/AA358.10.14c.md",
+    "Old Stories/Jason's Journal/AA358.10.14b.md",
+    "Old Stories/Jason's Journal/AA358.10.14a.md",
+    "Old Stories/Jason's Journal/AA358.10.13.md",
+    "Old Stories/Jason's Journal/AA358.10.12.md",
+    "Old Stories/Jason's Journal/AA358.10.11.md",
+    "Old Stories/Jason's Journal/AA358.10.10b.md",
+    "Old Stories/Jason's Journal/AA358.10.10a.md",
+    "Old Stories/Jason's Journal/AA358.10.09a.md",
+    "Hypno Slutz/Characters/Characters.md",
+    "Old Stories/Jason's Journal/AA358.10.09b.md",
+    "Old Stories/Jason's Journal/AA358.10.08b.md",
+    "Old Stories/Jason's Journal/AA358.10.08a.md",
+    "Old Stories/Jason's Journal",
+    "Old Stories",
+    "Dungeon Delvers",
+    "Hypno Slutz/Characters/_Relationship Map.canvas",
+    "Hypno Slutz/Characters",
+    "Hypno Slutz"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"7473349ef265e555","type":"file","file":"Hypno Slutz/Characters/Angela Sparks.md","x":-320,"y":-100,"width":400,"height":400},
+		{"id":"e384c2fcd08be9ff","type":"file","file":"Hypno Slutz/Characters/Megan Tabor.md","x":360,"y":-100,"width":400,"height":400},
+		{"id":"98a05167c69abe2d","type":"file","file":"Hypno Slutz/Characters/George Rogers.md","x":360,"y":-520,"width":400,"height":400},
+		{"id":"0211373890925438","type":"file","file":"Hypno Slutz/Characters/Josh Bruin.md","x":360,"y":340,"width":400,"height":400},
+		{"id":"bb9a1d175a4eb712","x":-800,"y":-100,"width":400,"height":400,"type":"file","file":"Hypno Slutz/Characters/Skye Taylor.md"},
+		{"id":"8c34a99bba0bfb68","type":"file","file":"Hypno Slutz/Characters/Gordon Sparks.md","x":-560,"y":-640,"width":400,"height":400},
+		{"id":"ad5d0eca407c285b","type":"file","file":"Hypno Slutz/Characters/Sam Wagner.md","x":40,"y":-1200,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"59e7c6846d7bc803","fromNode":"7473349ef265e555","fromSide":"right","toNode":"98a05167c69abe2d","toSide":"left","color":"5"},
+		{"id":"32ed42a4024ac263","fromNode":"7473349ef265e555","fromSide":"right","toNode":"0211373890925438","toSide":"left","color":"5"},
+		{"id":"5fd2b70e9e96e530","fromNode":"0211373890925438","fromSide":"left","toNode":"98a05167c69abe2d","toSide":"left","color":"5"},
+		{"id":"2faa64ec541426a2","fromNode":"0211373890925438","fromSide":"left","toNode":"e384c2fcd08be9ff","toSide":"left","color":"5"},
+		{"id":"b00644300ba739ec","fromNode":"e384c2fcd08be9ff","fromSide":"left","toNode":"98a05167c69abe2d","toSide":"left","color":"5"},
+		{"id":"b81bf9795e742a85","fromNode":"7473349ef265e555","fromSide":"right","toNode":"e384c2fcd08be9ff","toSide":"left","color":"5"},
+		{"id":"52614ad512873577","fromNode":"8c34a99bba0bfb68","fromSide":"bottom","toNode":"7473349ef265e555","toSide":"top","color":"6"},
+		{"id":"5f5cde8bed9922b8","fromNode":"ad5d0eca407c285b","fromSide":"bottom","toNode":"98a05167c69abe2d","toSide":"top","color":"6"},
+		{"id":"c635417a472be7a0","fromNode":"ad5d0eca407c285b","fromSide":"bottom","toNode":"8c34a99bba0bfb68","toSide":"top","color":"6"},
+		{"id":"29ad3d7e135be5c0","fromNode":"8c34a99bba0bfb68","fromSide":"bottom","toNode":"bb9a1d175a4eb712","toSide":"top","color":"6"}
+	]
+}

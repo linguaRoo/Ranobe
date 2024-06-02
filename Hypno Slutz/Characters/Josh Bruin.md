@@ -1,0 +1,3 @@
+# Josh Bruin
+
+Josh Bruin is 22-years-old, and is an avid soccer player and fan. He's been dating [Angela Sparks](Hypno%20Slutz/Characters/Angela%20Sparks.md) since they were in high school, and is comfortable with their open relationship structure. He hit it off with [George Rogers](Hypno%20Slutz/Characters/George%20Rogers.md) in the college gym and invited him to a casual date with Angela and [Megan Tabor](Megan%20Tabor). After all three agreed that George was a good fit, they invited him to join their polycule.
