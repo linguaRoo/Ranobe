@@ -4,72 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "217c776779df6c51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d13e5d55199e14aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Stories/Jason's Journal/AA358.10.27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a2693d63b455863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeon Delvers/Dungeon Delvers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e731d2148a5b1838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypno Slutz/Characters/Angela Sparks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0996eb5ea0f4344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypno Slutz/Characters/Megan Tabor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68ceb6578599f721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypno Slutz/Characters/Sam Wagner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4fe25a88b592bb31",
         "type": "tabs",
         "children": [
@@ -79,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
+                "file": "Refresh/Pokemon/01-normas-night-out.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3224c35f2174a973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc3de0d3a7b463e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -151,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Stories/Jason's Journal/AA358.10.27.md",
+                "file": "Refresh/Pokemon/01-normas-night-out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old Stories/Jason's Journal/AA358.10.27.md",
+                "file": "Refresh/Pokemon/01-normas-night-out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Stories/Jason's Journal/AA358.10.27.md"
+                "file": "Refresh/Pokemon/01-normas-night-out.md"
               }
             }
           }
@@ -212,16 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d13e5d55199e14aa",
+  "active": "1cc3de0d3a7b463e",
   "lastOpenFiles": [
+    "Refresh/Pokemon/01-normas-night-out.md",
+    "Refresh/Refresh.md",
     "Old Stories/Old Stories.md",
+    "Refresh/Pokemon",
+    "Refresh",
+    "Dungeon Delvers/Dungeon Delvers.md",
+    "Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
+    "Dungeon Delvers/Toyland/01 - The First Delve.md",
+    "Hypno Slutz/Hypno Slutz.md",
+    "Hypno Slutz/Hypnotic Penlight.md",
+    "Old Stories/Jason's Journal/AA358.10.27.md",
     "Old Stories/Jason's Journal/AA358.10.26.md",
     "Old Stories/Jason's Journal/AA358.12.07.md",
-    "Old Stories/Jason's Journal/AA358.10.27.md",
-    "Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
     "Old Stories/Jason's Journal/Jason's Journal.md",
-    "Dungeon Delvers/Toyland/01 - The First Delve.md",
-    "Dungeon Delvers/Dungeon Delvers.md",
     "Dungeon Delvers/Helmer House",
     "Dungeon Delvers/Characters",
     "Dungeon Delvers/Toyland",
@@ -239,10 +193,6 @@
     "Old Stories/Jason's Journal/AA358.10.10b.md",
     "Old Stories/Jason's Journal/AA358.10.10a.md",
     "Old Stories/Jason's Journal/AA358.10.09a.md",
-    "Hypno Slutz/Characters/Characters.md",
-    "Old Stories/Jason's Journal/AA358.10.09b.md",
-    "Old Stories/Jason's Journal/AA358.10.08b.md",
-    "Old Stories/Jason's Journal/AA358.10.08a.md",
     "Old Stories/Jason's Journal",
     "Old Stories",
     "Dungeon Delvers",
