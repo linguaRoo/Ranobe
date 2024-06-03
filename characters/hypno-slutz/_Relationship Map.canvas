@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"7473349ef265e555","type":"file","file":"Hypno Slutz/Characters/Angela Sparks.md","x":-320,"y":-100,"width":400,"height":400},
-		{"id":"e384c2fcd08be9ff","type":"file","file":"Hypno Slutz/Characters/Megan Tabor.md","x":360,"y":-100,"width":400,"height":400},
-		{"id":"98a05167c69abe2d","type":"file","file":"Hypno Slutz/Characters/George Rogers.md","x":360,"y":-520,"width":400,"height":400},
-		{"id":"0211373890925438","type":"file","file":"Hypno Slutz/Characters/Josh Bruin.md","x":360,"y":340,"width":400,"height":400},
-		{"id":"bb9a1d175a4eb712","x":-800,"y":-100,"width":400,"height":400,"type":"file","file":"Hypno Slutz/Characters/Skye Taylor.md"},
-		{"id":"8c34a99bba0bfb68","type":"file","file":"Hypno Slutz/Characters/Gordon Sparks.md","x":-560,"y":-640,"width":400,"height":400},
-		{"id":"ad5d0eca407c285b","type":"file","file":"Hypno Slutz/Characters/Sam Wagner.md","x":40,"y":-1200,"width":400,"height":400}
+		{"id":"7473349ef265e555","type":"file","file":"characters/hypno-slutz/sparks-angela.md","x":-320,"y":-100,"width":400,"height":400},
+		{"id":"e384c2fcd08be9ff","type":"file","file":"characters/hypno-slutz/tabor-megan.md","x":360,"y":-100,"width":400,"height":400},
+		{"id":"98a05167c69abe2d","type":"file","file":"characters/hypno-slutz/rogers-george.md","x":360,"y":-520,"width":400,"height":400},
+		{"id":"0211373890925438","type":"file","file":"characters/hypno-slutz/bruin-josh.md","x":360,"y":340,"width":400,"height":400},
+		{"id":"bb9a1d175a4eb712","x":-800,"y":-100,"width":400,"height":400,"type":"file","file":"characters/hypno-slutz/taylor-skye.md"},
+		{"id":"8c34a99bba0bfb68","type":"file","file":"characters/hypno-slutz/sparks-gordon.md","x":-560,"y":-640,"width":400,"height":400},
+		{"id":"ad5d0eca407c285b","type":"file","file":"characters/hypno-slutz/wagner-sam.md","x":40,"y":-1200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"59e7c6846d7bc803","fromNode":"7473349ef265e555","fromSide":"right","toNode":"98a05167c69abe2d","toSide":"left","color":"5"},
