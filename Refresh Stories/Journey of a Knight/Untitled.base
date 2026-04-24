@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.path.startsWith("_lore/")
+    - or:
+        - stories.contains(link("Old Stories/Jason's Journal/Jason's Journal"))
+        - stories.contains(link("Refresh/Journey of a Knight/Journey of a Knight"))
+views:
+  - type: table
+    name: Table

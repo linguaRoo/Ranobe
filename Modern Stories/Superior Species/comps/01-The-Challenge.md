@@ -1,0 +1,161 @@
+---
+title: "Superior Species<br>01: The Challenge"
+aliases:
+  - "Superior Species<br>01: The Challenge"
+linter-yaml-title-alias: "Superior Species<br>01: The Challenge"
+cover: "[[_images/Superior Species 01 Full.png]]"
+story: "[[Modern Stories/Superior Species/Superior Species]]"
+chapter: 1
+status: Public Draft
+tags:
+  - slice-of-life
+  - high-school
+  - american
+  - anthro
+  - cat
+  - mouse
+  - female
+  - andurusian
+  - alt-universe
+characters:
+  - "[[_lore/character/kelly-terra|Terra Kelly]]"
+  - Kady Shadow
+characters-minor:
+  - Sophie Brown
+  - Kevin Redford
+  - Emma West
+  - Ford Garvey
+  - Gregory Milton
+---
+
+# Superior Species<br>01: The Challenge
+
+<p class="byline">By J.D. Carter</p>
+
+> _**Word Count:** 3.200_  
+> _**Status:** Online Release_  
+> _**Content:** Slice of Life, High School, American, Anthro, Cat, Mouse_  
+> _**Main Characters:** Terra Kelly, Kadelya Shadow_  
+> _**Side Characters:** Sophie Brown, Kevin Redford, Emma_
+
+---
+
+## Terra
+
+High school was finally almost over. In less than a month, Terra would be done with all the cheerleaders and jocks and popular girls. She felt like throwing up every time one of them got too close to her. She deserved their respect, but high school politics hated anybody with a real brain.
+
+She was ready to be over all of it. But there was one thing she still wanted to do before she left this school behind her for good. She wanted that damned gym teacher, Mrs. Teller, to tell _her_ that the brain is the only muscle that really needs training. She wanted the English teacher, Mrs. Williams, to tell her that her original stories deserved to be published…
+
+Okay, so she basically wanted to dominate all of her teachers and turn her perfect grades into proper praise for her perfection. Something she doubted any of the students would ever do, they wouldn’t give her the time of day unless they were forced to by a teacher.
+
+But what she _really_ wanted more than all the rest was knock the 12-A class president down a peg. She was popular across all the cliques in the school. She was pretty. She’d been crowned princess at the Fall Formal, and had top marks in every class. She wasn’t like the kind of popular girl you saw in the TV shows who was a total bitch either, which only made Terra hate her more.
+
+No, Class Pres Kadelya Shadow was too perfect to actually exist. She was sweet. She was apparently in the camping club and took half a year off six years back for a trip to Japan. Japan, the mecca of nerds, and Kadelya wasn’t a nerd. Not a real nerd, at least.
+
+Terra was a nerd. Social misfit, outcast, dry frizzy hair that required pomade to stay even, buck teeth that had made every school photographer tell her to just keep her lips together. Nearsighted with thick glasses that were chosen for their functionality rather than the fashionable style of the readers Kadelya only wore once in while.
+
+And if she was going to knock Kadelya down, she should probably try something with that barnacle of a fox that fed off the popular girl. Brown. Stacey? Sylvie? The name didn’t matter, but Terra knew that girl had arranged the whole Fall Formal princess thing. Everybody knew that much. A little parasite clinging to the popular girl, but also dating a nerd. Another real nerd, one Terra at least recognized. Alex Smith was one of the comic and video game nerds. He deserved to not be manipulated by whatever sort of parasite Brown really was, even if Terra didn’t care about him.
+
+The lunch line moved forward. Terr sighed at the thought of this being just another day of being the smartest loser Niemen Tech had ever seen. She ground the sole of her right shoe into the floor as she thought about how much she hated this school, hated the Class Pres and all of her hangers on, then she heard something.
+
+“Miss Kelly?” The voice was annoyingly familiar. The voice she heard every morning in homeroom. The voice of the popular cat everybody else liked. Kadelya Shadow, the red-headed catgirl whose popularity was as effortless for her as was Terra’s unpopularity, being the punching bag of everybody else in the school. And worst of all, she was the only popular girl who even pretended to care about Terra.
+
+“Yeah, what is it class pres?” Terra didn’t really care what she wanted. But she wasn’t going to march away from the lunch line and starve like one of the hot bitches.
+
+“I just got out of the teacher-council meeting,” Kadelya said, her voice too damn cheery to be honest. “And apparently you’re going to be given the valedictorian speech.”
+
+A popularity contest among the teachers. Oh sure, only the highest grades were eligible, but Terra was pretty sure Kadelya was the only student even close to her grades. With everything else the cat had going for her, that was one of the things that ground Terra’s nerves the most. “Ha ha, very funny, class pres.”
+
+Kadelya didn’t respond. The line moved forward another body, and Kadelya cut the line right behind Terra. “You are yanking my tail, aren’t you?”
+
+Kadelya let out a soft sigh. “Not at all,” she said, offering her right hand to Terra. “I honestly want to congratulate you, Miss Kelly. You earned it.”
+
+Terra almost reached back to shake Kadelya’s hand, then closed her hand into a fist. Another body length and Terra grabbed a tray for her food. “Congratulate me? They picked the dweeb with perfect grades instead of the princess, huh? And you want me to believe you’re not jealous? What’s even the point?”
+
+The line moved forward as one of the students finished getting their ID scanned for the meal. Kadelya grabbed a tray this time, and didn’t answer immediately. Terra was sure she was just trying to find the best-smelling fish sticks on the line. Cats always thought they were the best.
+
+“My GPA slipped,” Kadelya said. “Three point nine eight. You have a perfect four.”
+
+Served her right. Terra smirked as she took another step forward. “I still don’t get the point. Nobody cares what I have to say anyway.”
+
+“I know you hate speeches,” Kadelya said. “But, I know you can do it anyway. I’ve paid attention to all of your speeches in English class. But the crowd…”
+
+Terra closed her eyes and took a deep breath. Was this fucking popular princess of the school trying to act like she was concerned about Terra again, the one time the school was going to give her a platform to tell everybody what she really thought?
+
+“Shut up,” she said sharply. “You think I can’t give _this_ speech. You think _I’m_ not good enough, and need you to make me feel confident or stronger or some bullshit, right, Class Pres?
+
+“We’re not friends, you know. I don’t have friends. I don’t need friends. I beat you academically, and now you’re jealous of me. That’s what this really is. You want to challenge me for the top spot now, right kitty?”
+
+Kadelya would have stepped back from the tirade, if it weren’t for the jock of a marten standing behind her in the line. The cat took a deep breath. “No, I’ve always wanted…”
+
+“No, you haven’t. You’ve always wanted everyone to like you. Well I won’t like you. Ever. Got that?” Terra said firmly. She didn’t wait for a response, and turned back to the lunch line, picking out one of the firmest apples. “I got this far without you,” she said, turning towards the front of the line. “I’ll make this speech my own way. But…”
+
+Images of how she could put the Class Pres in her place started to fill her mind, how she could exploit this attempt at conciliation from the popular bitch who’d thought she could compete with Terra’s brain. “Fine!” She turned her lead to the left, side-eying the creamy-furred cat. “If you really aren’t jealous, meet me in the atrium, after school.”
+
+---
+
+## Kadelya
+
+Why did Miss Kelly have to be such a prickly person? Why was everything with her always about how much everybody except her sucked?
+
+Kadelya shook her head gently as she paid for her own lunch, then headed out into the cafeteria. She _did_ have other things on her metaphorical plate than making sure Miss Kelly wouldn’t be an ass at graduation. But she still hated that after eight years in school together, she still had never been able to change Terra’s opinion of her, or of anybody else, for the better.
+
+She had tried. In fifth grade she’d invited Terra to her birthday party. During the summers she’d tried to invite Terra out to the beach or to visit her at home. Terra always turned these things down, and eventually Kadelya had stopped reaching out as often. Honestly, Kadelya hardly knew a thing about Terra outside of her school performance, and when it came to her personal speeches in class, some of them sounded almost like stories, not real things that had happened to her.
+
+Kadelya shook her head of those thoughts and began to walk over to the table where the photography club was sitting. The photography club _and_ her girlfriend, one of their favorite subjects to shoot -- a fair-furred foxgirl with a brown mane that ran in loose waves down her back, Sophie Brown. Her green eyes were shining as she talked with a male weasel who had brown and white fur: Kevin Redford.
+
+He looked really good, the hottest guy in the photography club as Kadelya saw it, and the way they talked made Kadelya imagine him dating Sophie. His mane was neat and matched the brown of his fur almost exactly, and his eyes were a dirty golden color. If he were single, or open, she would encourage Sophie to ask him out, or do it herself; but he had a human girlfriend already. She had no idea if he’d be okay with their poly arrangement. Or if Sylvia, his girlfriend, would.
+
+Sophie lifted her tan-colored satchel off the seat next to her as Kadelya approached, flashing a wide toothy smile. “Hey there,” she said as Kadelya pulled the seat out and set her lunch tray down. “I saved your seat, sexy. Thanks for joining me for lunch.”
+
+Kadelya blushed a bit. Sophie wasn’t the only one who would describe her that way, but it was still a little bit embarrassing in school. “You don’t need to call me that all the time,” she said, putting her own bag on the floor. She stared at her tray, taking in the meal as if she hadn’t chosen it all off the cafeteria line. Two cod fillets, a cup of steamed broccoli, a cup of salad with a side of a fruity vinaigrette, and a steaming roll with a pat of butter to go with it. She picked up a bigger chunk of the green salad and sniffed it. “So… you’ll never guess who wound up getting valedictorian.”
+
+The table quieted down a bit at that. All eyes moving to her as she crunched the piece of iceberg lettuce, then opened the plastic wrapper for her disposable service.
+
+After maybe twenty seconds of silence, a vole girl with gray fur and messy blonde hair raised an eyebrow over her brilliant green eye, probably a colored lens spoke up. “So, don’t leave us hangin‘, fam.” Emerald, no Emma Kinney. She was in the district-wide Drama Society too.
+
+“Miss Kelly,” Kadelya said, keeping her voice down. She poured the side cup of dressing on her salad then took a bite, letting the photography club take it in.
+
+Their voices became low murmurs, until the vole looked straight at Kadelya and raised her hand, forefinger outstretched like that video game lawyer. At least she didn’t stand up or shout and make a scene for the whole cafeteria.
+
+“The crazy bomber girl beat you out for top marks?” She seemed shook, and Kadelya wasn’t surprised. Sophie was probably the only one who could have guessed it, especially since their relationship was the main reason Kadelya’s grades had actually slipped during this last semester. But Emma seemed like she was about to yeet accusations, if not food, at the catgirl. “I find that hard to believe, class pres! You’re always on top of everything!”
+
+Kadelya shrugged. She had learned that Emma had been part of Sophie’s plan to get her voted as the Princess of the Fall Formal, and suspected Emma of having a crush on her. “I guess, but I already got my acceptance letter from Stamen, and I’m making plans for moving down to Frisco. I have an extra workload figuring out how that’s all gonna work, especially if Mark’s still up here. It’s had me distracted, and my GPA slipped.”
+
+Another student stood up. A wolverine, she recognized them as non-binary and could make out that they were wearing a binder under a slightly-too-tight white shirt. They had ruddy brown fur and a slicked back, but still curly, red mane. Their paws were nearly black while their face was ringed with a color closer to cream around a deep brown mask on the top of their muzzle and around their eyes. Ford was still a junior, not graduating until next year.
+
+“Look, I don’t care that it wasn’t you,” they said with a growl. “But Kelly doesn’t deserve it on anything but marks, right? Nobody likes her. She doesn’t like anybody. I mean, I don’t think think she’s a crazy bomber or a school shooter type, but everybody knows she’s antisocial as fuck.” They took a deep breath and looked around the table for any objections. When none arose, they kept making their point. “And she’s supposed to give the most important speech of the year, right? To wish all of you seniors well in your college and university and life. How does anyone think this is a job for her?”
+
+Silence hung over the table for a minute as everybody ate while thinking about Ford’s argument. Kadelya had been eager to try and convince Terra to make a good speech, she hadn’t argued the faculty choice about valedictorian. But had she made the wrong call by not protesting a little bit? Was she being greedy to try and think she could befriend Terra in their last month of school?
+
+The silence around the table was broken when Sophie firmly set her water bottle on the table after a long sip. “Hold up Ford,” she said with a thoughtful smile. “Valedictorian is only about marks, isn’t it? So, if Kelly got the marks for it, it’s not really our place to protest the staff’s decision, is it?”
+
+Ford shook their head slowly. “It still isn’t fair. Especially since everybody loves Kadelya. I know I don’t graduate this year, but all three years of students respect her, Sophie. Terra is someone most of us just avoid because whenever we’ve tried to be nice, she pushed us away.” The junior made their point and sat back down, grumbling.
+
+“Okay, but…” Kadelya took a bite of her cod fillet, then held up a finger, chewing it slowly, deliberately. She swallowed and continued. “This is my last chance to try and get through to her. After this year, who knows where she’ll be going? And I know there’s good in her somewhere, and I really want the chance to show everybody that bit of good I see in her since she got this honor, okay?”
+
+She looked around the table to see everybody’s reactions. Sophie was beaming. Emma was still staring, but her hands were both on the table now. Kevin had buried his head in a textbook. Ford let out a heavy sigh. The rest of the table were quiet for a moment as Kadelya, and others, ate their lunches.
+
+This silence wasn’t broken until the club president, a dappled western skink, swallowed the last bite of his cod fillets. He had been quiet until now, taking in everything with the patience a nature photographer, or a sniper, needed for the perfect shot. Gregory Milton cleared his throat, let his tongue flick out, and nodded. “That’s why we all love Kadelya, isn’t it? She might be crazier than Pollyanna, but her hope is contagious.” The wasn’t even a hint of sarcasm in his voice. “If Kadelya can’t get the creep out of Terra, nobody can.”
+
+As she continued to chew on her own lunch, Kadelya felt the warm blush she always did when other people praised her. It wasn’t why she looked for the good in everybody, and getting praised made her self conscious. But as the rest of the table started to acquiesce to the fact that she wasn’t upset, she started to believe that maybe she could get Terra to see the good in at least _one_ other person.
+
+---
+
+## Terra
+
+Terra replayed the lunch line discussion in her mind. She hadn’t meant to get so emotional about it. So impulsive. But she _did_ want to teach the princess that not everything is daises and roses and cotton candy or whatever optimistic bullshit she believed in.
+
+_Challenge accepted._ The thought had filled Terra’s mind as she glared sideways at the class president, stepping forward to pay for her lunch. “You think I can’t give _this_ speech. You think _I’m_ not good enough, and need you to make me feel confident or stronger or some bullshit, right, Class Pres?” She didn’t pay attention to every word, but the weight of the self-imposed challenge she’d taken on was striking her.
+
+Terra bristled as she walked out of the lunch line, then the cafeteria, and made her way to the spot near the library where she always ate. Alone. After her food was done, she’d usually go into the library, read up on her personal interests, and often check out a book.
+
+Everybody always thought she needed help. Just because she wasn’t some social butterfly, it didn’t mean she didn’t understand people. In fact, she thought to herself, chewing on her carrot sticks, she understood them all too fucking well. She could probably teach Miss Spring Fling Fall Formal Princess Class President that grades didn’t matter, only applied knowledge meant anything.
+
+She could feel the corner of her mouth curling up in a grin. She knew psychology better than anybody in the school. And even if she didn’t have any of her own inventions on hand, or tested, she could use her own knowledge all the same. She had hypnotized randos over Discord a few times. Surely she could apply her knowledge of psychology and hypnotism to this problem, too.
+
+She used her tablet to start plotting the downfall of Kadelya Shadow into her own plaything. Methods. Strategies. Suggestions. Triggers. As she wrote her notes, she felt her lips curling up into a grin. It looked like she would actually have something worth doing for the rest of the school year after all.
+
+She wrote about it. The Class Pres on the floor at her foot. Maybe even under her foot, her maryjanes mussing that perfect pixie-ish hair. She write how the cat would have worshipful adoration in eyes that couldn’t see anything except Terra clearly. She wrote how her pet kitten would have dopey, dorky little braided pigtails and an oral retainer to make her sound as nasal and dorky as everybody pretended Terra did.
+
+_I’ll do whatever it takes to this bitch,_ Terra told herself. _But she’s going to purr for me and only me before we walk for our papers. And her little fox too._

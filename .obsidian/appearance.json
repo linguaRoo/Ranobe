@@ -1,5 +1,9 @@
 {
-  "accentColor": "#8af55c",
+  "accentColor": "#62af41",
   "theme": "obsidian",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "book"
+  ],
+  "textFontFamily": "Georgia"
 }

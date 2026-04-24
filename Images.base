@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      or:
+        - "!cover.isEmpty()"
+    imageFit: ""
+    image: note.cover
+    cardSize: 140
+    imageAspectRatio: 1

@@ -1,4 +1,10 @@
 [
   "folder-note-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "longform",
+  "obsidian-linter",
+  "chronos",
+  "obsidian-enhancing-export",
+  "obsidian-importer",
+  "obsidian-text-format"
 ]

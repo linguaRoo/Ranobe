@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "_images"
+        - file.ext == "md"
+    order:
+      - file.name
+      - aliases
+    image: note.cover
+    imageAspectRatio: 1.4
+  - type: cards
+    name: View

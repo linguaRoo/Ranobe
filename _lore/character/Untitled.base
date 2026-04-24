@@ -1,0 +1,6 @@
+views:
+  - type: cards
+    name: Appears in
+    image: note.cover
+    imageAspectRatio: 0.65
+    cardSize: 110

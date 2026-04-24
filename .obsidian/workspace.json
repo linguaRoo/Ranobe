@@ -4,36 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe25a88b592bb31",
+        "id": "e23506c449a6176d",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e7fc1edb9b7a62",
+            "id": "88e3aafa4c8b9920",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refresh Stories/Digimon/Digimon Adventure Side Trek/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "b02154211dea1455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refresh/Pokemon/01-normas-night-out.md",
+                "file": "Old Stories/Bal Keldin/Metafiction - Bal Keldin (2).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Metafiction - Bal Keldin (2)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "3224c35f2174a973",
+        "id": "25b06d72b17b7497",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc3de0d3a7b463e",
+            "id": "36c2636a331e34c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Old Stories/Bal Keldin/META - Keldin Tales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "META - Keldin Tales"
+            }
+          },
+          {
+            "id": "2b979eafd864f351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "META - Little Witch Lyric"
+            }
+          },
+          {
+            "id": "428e34532d8352eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Stories/Digimon Side Trek/Digimon Tamers Side Trek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digimon Tamers Side Trek"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,8 +106,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -62,13 +119,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Lorelei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,14 +135,26 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cd300c2d681fd46d",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "right": {
     "id": "18421f9fc65b31b9",
@@ -99,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refresh/Pokemon/01-normas-night-out.md",
+                "file": "Trouble Twins/00-stupid-sexy-twins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +178,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00-stupid-sexy-twins"
             }
           },
           {
@@ -116,10 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refresh/Pokemon/01-normas-night-out.md",
+                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from META - Little Witch Lyric"
             }
           },
           {
@@ -128,9 +203,13 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,65 +218,123 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refresh/Pokemon/01-normas-night-out.md"
-              }
+                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of META - Little Witch Lyric"
+            }
+          },
+          {
+            "id": "72e3de0132ffffbd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d53b30a5337958b3",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "1f171b75e2d1fcf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for META - Little Witch Lyric"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1cc3de0d3a7b463e",
+  "active": "2b979eafd864f351",
   "lastOpenFiles": [
-    "Refresh/Pokemon/01-normas-night-out.md",
-    "Refresh/Refresh.md",
-    "Old Stories/Old Stories.md",
-    "Refresh/Pokemon",
-    "Refresh",
-    "Dungeon Delvers/Dungeon Delvers.md",
-    "Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
-    "Dungeon Delvers/Toyland/01 - The First Delve.md",
-    "Hypno Slutz/Hypno Slutz.md",
-    "Hypno Slutz/Hypnotic Penlight.md",
-    "Old Stories/Jason's Journal/AA358.10.27.md",
-    "Old Stories/Jason's Journal/AA358.10.26.md",
-    "Old Stories/Jason's Journal/AA358.12.07.md",
-    "Old Stories/Jason's Journal/Jason's Journal.md",
-    "Dungeon Delvers/Helmer House",
-    "Dungeon Delvers/Characters",
-    "Dungeon Delvers/Toyland",
-    "Old Stories/Jason's Journal/AA358.10.22b.md",
-    "Old Stories/Jason's Journal/AA358.10.22a.md",
-    "Old Stories/Jason's Journal/AA358.10.17.md",
-    "Old Stories/Jason's Journal/AA358.10.16.md",
-    "Old Stories/Jason's Journal/AA358.10.15.md",
-    "Old Stories/Jason's Journal/AA358.10.14c.md",
-    "Old Stories/Jason's Journal/AA358.10.14b.md",
-    "Old Stories/Jason's Journal/AA358.10.14a.md",
-    "Old Stories/Jason's Journal/AA358.10.13.md",
-    "Old Stories/Jason's Journal/AA358.10.12.md",
-    "Old Stories/Jason's Journal/AA358.10.11.md",
-    "Old Stories/Jason's Journal/AA358.10.10b.md",
-    "Old Stories/Jason's Journal/AA358.10.10a.md",
-    "Old Stories/Jason's Journal/AA358.10.09a.md",
-    "Old Stories/Jason's Journal",
-    "Old Stories",
-    "Dungeon Delvers",
-    "Hypno Slutz/Characters/_Relationship Map.canvas",
-    "Hypno Slutz/Characters",
-    "Hypno Slutz"
+    "Old Stories/Bal Keldin/Metafiction - Bal Keldin (2).md",
+    "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
+    "Old Stories/Digimon Side Trek/Digimon Tamers Side Trek.md",
+    "Old Stories/Bal Keldin/Metafiction - Bal Keldin.md",
+    "Old Stories/Bal Keldin/META - Keldin Tales.md",
+    "Old Stories/Bal Keldin/META - Knight of Destiny.md",
+    "Old Stories/Bal Keldin/META - Bal Keldin.md",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Chapter 1-1.md",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Index.md",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Chapter 1-2.md",
+    "_templates/chapter.md",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Episode 1.md",
+    "_concepts/2025-03-11.md",
+    "_concepts/READ.ME.md",
+    "Old Stories/Digimon Side Trek/Digimon Adventure Gaiden.md",
+    "_concepts/2025-03-09.md",
+    "Modern Stories/Dungeon Delvers/Dungeon Delvers.md",
+    "Modern Stories/Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
+    "Modern Stories/Dungeon Delvers/Toyland/Toyland.md",
+    "Story Writing.base",
+    "Story Bases.base",
+    "Pasted image 20260329065506.png",
+    "Pasted image 20260329065518.png",
+    "Pasted image 20260329065551.png",
+    "Refresh Stories/Digimon/Digimon Adventure 02 Side Trek/Index.md",
+    "Refresh Stories/Digimon/Digimon Tamers Side Trek/Index.md",
+    "Refresh Stories/Refresh Stories.md",
+    "Refresh Stories/Refresh Stories.pdf",
+    "Refresh Stories/Refresh.md",
+    "Refresh Stories/Totema World/Simple & Clean/Tenderness/Tenderness.md",
+    "Refresh Stories/Totema World/Simple & Clean/Simple & Clean.md",
+    "Refresh Stories/Totema World/Sacred Bonds/Sacred Bonds.md",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/comp/DAST-Episode01-1-DRAFT.pdf",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/comp/DAST-Episode01-1.pdf",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/comp",
+    "Refresh Stories/Digimon/Digimon Adventure Side Trek/New folder",
+    "Old Stories/Bal Keldin/bkposter-d02.png",
+    "Concept - Bal the Superman.png",
+    "Old Stories/Bal Keldin",
+    "Kim's Partners.canvas",
+    "Refresh Stories/Digimon/Digimon Tamers Side Trek",
+    "Refresh Stories/Digimon/Digimon Adventure 02 Side Trek",
+    "_images/Superior Species 03 Full.png",
+    "_images/Superior Species 02 Full.png",
+    "_images/Superior Species 01 Full.png",
+    "_images/01-Flash-and-Release-Cover-Mockup 1.jpg",
+    "_images/06-Divine-Gift-Cover-Mockup.jpg",
+    "_lore/character/hypno-slutz/_Relationship Map.canvas",
+    "Hypno Slutz/Characters/_Relationship Map.canvas"
   ]
 }

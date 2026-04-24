@@ -1,3 +1,7 @@
+---
+title: Hypnotism
+---
+
 ## Hypnotism & Mind Control
 
 There are a variety of ways to engage with _Hypnotism_ in Advanced Dungeons & Dragons, and this is a special ruleset geared towards social roleplaying settings where physical combat is seconday.
@@ -12,7 +16,7 @@ While a subject is under the influence of _hypnotism,_ the hypnotist may take ad
 
 ## Ego Points
 
-Ego Points are a general purpose measure of the strength of the individual's mind. Subjects who have suffered Ego Point damage have their saving throw penalized by the amount of damage their ego has taken.
+Ego Points are a general purpose measure of the strength of the individual’s mind. Subjects who have suffered Ego Point damage have their saving throw penalized by the amount of damage their ego has taken.
 
 | Character Class     | Ego Die (Level 1-10) | Ego Boost (Level 11+) |
 |:--------------------|:--------------------:|:---------------------:|
@@ -28,4 +32,4 @@ If a character is reduced to 0 Ego Points, they fall unconscious for 1d3 minutes
 
 Ego points may be recovered by the same means as hit points, including magical or psionic healing techniques. In addition to this, a character may recover 1 ego die of ego points per day by spending 1 hour in uninterrupted meditation, reflection, prayer, or otherwise unworking except on their mental state.
 
-Any character who receives a healthy night's sleep will recover the maximum number of ego points provided by their ego dice times their highest class level.
+Any character who receives a healthy night’s sleep will recover the maximum number of ego points provided by their ego dice times their highest class level.

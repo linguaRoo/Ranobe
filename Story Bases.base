@@ -1,0 +1,58 @@
+filters:
+  and:
+    - file.name != "Index"
+formulas:
+  Title: if(chapter,link(file,chapter+" - "+chapterTitle),file)
+properties:
+  note.synopsis:
+    displayName: Synopsis
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("elf")
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: View
+    filters:
+      and:
+        - "!synopsis.isEmpty()"
+    order:
+      - file.name
+      - synopsis
+    rowHeight: medium
+  - type: table
+    name: Scenes by Chapter
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - synopsis
+    sort:
+      - property: chapter
+        direction: ASC
+    rowHeight: tall
+  - type: chronos-timeline-view
+    name: Timeline
+  - type: table
+    name: ThisStory
+    filters:
+      and:
+        - file.path.startsWith(this.file.folder)
+        - file.ext == "md"
+    order:
+      - formula.Title
+      - synopsis
+    sort:
+      - property: chapter
+        direction: ASC
+    columnSize:
+      formula.Title: 170
+    rowHeight: tall
