@@ -49,11 +49,11 @@ Though small, a dedicated fanbase exists and continues the stories of Keldin Adv
 
 ### Our Equivalents: Megaman Legends, Fallout
 
-## Cyber Soldier Bal Keldin (_Kybrau Lektakh Bal Keldin_)
+## Cyber Soldier Bal Keldin (_Lektax Kybrau: Bal Keldin_)
 
 In a computerized world, humans interact with the internet through mind-operated programs called Avatars, and cyber-battling between Avatars is a recreation almost everybody enjoys. Diveball team leader Bal Kieres rises to the challenge when TerrorNet steals the top secret Avint program designed by his father, and with the help of his own Avint, Tempo, Bal fights to disrupt, and eventually capture, TerrorNet.
 
-Despite making Bal and the Superman into two separate people, few people consider this a deviation of the formula, as Bal and Tempo are very closely tied to each other. Most major characters are doubled up in this series, such as Liyer and her Avatar Lyre, Luko and his Avatar Enkidu, and avatars and their operators pulled from throughout the history of the Keldin series. Also of note is the faact that in Adin, there is only a very minor distinction between the names: the Bahl operates the Avatar Bal and Liyer’s avatar is Liyr; it is only for English that some characters have such different names.
+Despite making Bal and the Superman into two separate people, few people consider this a deviation of the formula, as Bal and Tempo are very closely tied to each other. Most major characters are doubled up in this series, such as Liyer and her Avatar Lyre, Luko and his Avatar Enkidu, and avatars and their operators pulled from throughout the history of the Keldin series. Also of note is the fact that in Adin, there is only a very minor distinction between the names: the Bahl operates the Avatar Bal and Liyer’s avatar is Liyr; it is only for English that some characters have such different names.
 
 Despite a tournament arc late in the series, the story is incredibly focused on the development of Tempo and Bal, and the consequences of Avints on the network world. The ultimate conclusion appears to say that Avints are as alive as humans, and only by Avint and human societies being in harmony can either side achieve its full potential. This moral conclusion is ignored by many fans who prefer that the stories continue.
 

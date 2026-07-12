@@ -29,61 +29,141 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Stories/Bal Keldin/Metafiction - Bal Keldin (2).md",
+                "file": "Metaliterature/Fiction/Bal Keldin/10-Little-Witch-Lyric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metafiction - Bal Keldin (2)"
+              "title": "10-Little-Witch-Lyric"
+            }
+          },
+          {
+            "id": "e951c92ca5be49df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metaliterature/A List of Atrusian Fiction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A List of Atrusian Fiction"
+            }
+          },
+          {
+            "id": "4592fcc35b786908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metaliterature/Cyclopedia/atrusian-economics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "atrusian-economics"
+            }
+          },
+          {
+            "id": "1e90c73ae121ce90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metaliterature/Fiction/Bal Keldin/08-I-Love-Bal-Keldin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-I-Love-Bal-Keldin"
+            }
+          },
+          {
+            "id": "3d8d6edf2708e39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metaliterature/A List of Atrusian Fiction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A List of Atrusian Fiction"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
-        "id": "25b06d72b17b7497",
+        "id": "b555ad2926befe66",
         "type": "tabs",
         "children": [
           {
-            "id": "36c2636a331e34c1",
+            "id": "7044ac25530ba446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Stories/Bal Keldin/META - Keldin Tales.md",
+                "file": "Metaliterature/Fiction/Bal Keldin/10-Little-Witch-Lyric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "META - Keldin Tales"
+              "title": "10-Little-Witch-Lyric"
             }
           },
           {
-            "id": "2b979eafd864f351",
+            "id": "e3093c7d5e7f3793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
+                "file": "Metaliterature/Setting Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "META - Little Witch Lyric"
+              "title": "Setting Glossary"
             }
           },
           {
-            "id": "428e34532d8352eb",
+            "id": "0a37bc14c6f3101e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Stories/Digimon Side Trek/Digimon Tamers Side Trek.md",
+                "file": "Metaliterature/Nonfiction/The Record of Belthak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digimon Tamers Side Trek"
+              "title": "The Record of Belthak"
+            }
+          },
+          {
+            "id": "5c5c4b949aafca22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Stories/Jason's Journal/CE2014.11.05 - Author's Notes (Retconned).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CE2014.11.05 - Author's Notes (Retconned)"
+            }
+          },
+          {
+            "id": "9736b14b2c08048a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -107,7 +187,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -119,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lorelei",
+                "query": "Saturday",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
+                "file": "Metafiction/Bal Keldin/META - Little Witch Lyric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -218,13 +300,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
+                "file": "Metaliterature/A List of Atrusian Fiction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of META - Little Witch Lyric"
+              "title": "Outline"
             }
           },
           {
@@ -247,7 +329,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md"
+                "file": "Metaliterature/atrusian-economics.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -259,14 +341,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Old Stories/Bal Keldin/META - Little Witch Lyric.md"
+                "file": "Metafiction/Bal Keldin/META - Little Witch Lyric.md"
               },
               "icon": "lucide-info",
               "title": "File properties for META - Little Witch Lyric"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -285,55 +367,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2b979eafd864f351",
+  "active": "3d8d6edf2708e39f",
   "lastOpenFiles": [
-    "Old Stories/Bal Keldin/Metafiction - Bal Keldin (2).md",
-    "Old Stories/Bal Keldin/META - Little Witch Lyric.md",
-    "Old Stories/Digimon Side Trek/Digimon Tamers Side Trek.md",
-    "Old Stories/Bal Keldin/Metafiction - Bal Keldin.md",
-    "Old Stories/Bal Keldin/META - Keldin Tales.md",
-    "Old Stories/Bal Keldin/META - Knight of Destiny.md",
-    "Old Stories/Bal Keldin/META - Bal Keldin.md",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Chapter 1-1.md",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Index.md",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Chapter 1-2.md",
-    "_templates/chapter.md",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/Episode 1.md",
-    "_concepts/2025-03-11.md",
-    "_concepts/READ.ME.md",
-    "Old Stories/Digimon Side Trek/Digimon Adventure Gaiden.md",
-    "_concepts/2025-03-09.md",
-    "Modern Stories/Dungeon Delvers/Dungeon Delvers.md",
-    "Modern Stories/Dungeon Delvers/Toyland/02 - Toyland, Toyland.md",
-    "Modern Stories/Dungeon Delvers/Toyland/Toyland.md",
+    "Metaliterature/Setting Glossary.md",
+    "Metaliterature/Cyclopedia/day-wage-labour.md",
+    "Metaliterature/A List of Atrusian Fiction.md",
+    "Metaliterature/Cyclopedia/atrusius.md",
+    "Metaliterature/Cyclopedia/time.md",
+    "Metaliterature/Fiction/Bal Keldin/10-Little-Witch-Lyric.md",
+    "Metaliterature/Cyclopedia/atrusian-economics.md",
+    "Metaliterature/Cyclopedia/atrusian-adventuring.md",
+    "Metaliterature/Fiction/Bal Keldin/I Love Bal Keldin!! - Summaries.md",
+    "Metaliterature/Cyclopedia/adinjo-numerics.md",
+    "Metaliterature/Authors/romaren-jerin.md",
+    "Metaliterature/Timeline of Atrusian Stories.md",
+    "Metaliterature/Authors/lassalen-baeron.md",
+    "Metaliterature/Authors/ellis-parlaio.md",
+    "Metaliterature/Nonfiction/The Record of Belthak.md",
+    "Metaliterature/Fiction/Bal Keldin/Metafiction - Bal Keldin (2026).md",
+    "Metaliterature/Literary Glossary.md",
+    "Metaliterature/Fiction/Bal Keldin/08-I-Love-Bal-Keldin.md",
+    "Metaliterature/Cyclopedia/atrusian-architecture.md",
+    "Metaliterature/Cyclopedia/atrusian-education.md",
+    "Metaliterature/Cyclopedia/atrusian-publishing.md",
+    "Pasted image 20260617025428.png",
+    "Metaliterature/Cyclopedia/econ-lifestyle.md",
+    "Metaliterature/Cyclopedia",
+    "Metaliterature/Fiction/Kingdoms Crest.md",
+    "Old Stories/Jason's Journal/CE2014.11.05 - Author's Notes (Retconned).md",
+    "Old Stories/Jason's Journal/CE1999.06.01 - Author's Notes.md",
+    "Metaliterature/Fiction/Legend of Light.md",
+    "Metaliterature/Authors",
+    "Metaliterature/Fiction",
+    "Metaliterature/Fiction/Bal Keldin/bkposter-d02.png",
+    "Metaliterature/Nonfiction",
+    "Metafiction 1",
+    "Metaliterature",
     "Story Writing.base",
     "Story Bases.base",
     "Pasted image 20260329065506.png",
     "Pasted image 20260329065518.png",
     "Pasted image 20260329065551.png",
-    "Refresh Stories/Digimon/Digimon Adventure 02 Side Trek/Index.md",
-    "Refresh Stories/Digimon/Digimon Tamers Side Trek/Index.md",
-    "Refresh Stories/Refresh Stories.md",
     "Refresh Stories/Refresh Stories.pdf",
-    "Refresh Stories/Refresh.md",
-    "Refresh Stories/Totema World/Simple & Clean/Tenderness/Tenderness.md",
-    "Refresh Stories/Totema World/Simple & Clean/Simple & Clean.md",
-    "Refresh Stories/Totema World/Sacred Bonds/Sacred Bonds.md",
     "Refresh Stories/Digimon/Digimon Adventure Side Trek/comp/DAST-Episode01-1-DRAFT.pdf",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/comp/DAST-Episode01-1.pdf",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/comp",
-    "Refresh Stories/Digimon/Digimon Adventure Side Trek/New folder",
-    "Old Stories/Bal Keldin/bkposter-d02.png",
-    "Concept - Bal the Superman.png",
-    "Old Stories/Bal Keldin",
+    "Metaliterature/Fiction/Bal Keldin/Concept - Bal the Superman.png",
     "Kim's Partners.canvas",
-    "Refresh Stories/Digimon/Digimon Tamers Side Trek",
-    "Refresh Stories/Digimon/Digimon Adventure 02 Side Trek",
     "_images/Superior Species 03 Full.png",
     "_images/Superior Species 02 Full.png",
     "_images/Superior Species 01 Full.png",
     "_images/01-Flash-and-Release-Cover-Mockup 1.jpg",
-    "_images/06-Divine-Gift-Cover-Mockup.jpg",
     "_lore/character/hypno-slutz/_Relationship Map.canvas",
     "Hypno Slutz/Characters/_Relationship Map.canvas"
   ]

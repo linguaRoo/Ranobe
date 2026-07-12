@@ -10,7 +10,7 @@ aliases:
 
 This third iteration on the concept of Bal and supermen focuses primarily on the story of Luko Romarin, a young city guardsman in the independent holdings of Valnort who discovers he has magical and psykickal gifts after meeting the reclusive hermit Farshan. After the Imperium claims sovereignty over Valnort, Luko is dragged into the Bal Rebellion by Farshan, but as a young man who values freedom, he is happy to fight with them.
 
-![](Old%20Stories/Bal%20Keldin/bkposter-d02.png)Luko Romarin (blue) stands ready while the figures of Liyer and Enkidu loom over and behind him. This draft does not depict Farshan, Rhea, or other significant characters to the first arc as it is still a work in progress.
+![](Metaliterature/Fiction/Bal%20Keldin/bkposter-d02.png)Luko Romarin (blue) stands ready while the figures of Liyer and Enkidu loom over and behind him. This draft does not depict Farshan, Rhea, or other significant characters to the first arc as it is still a work in progress.
 
 ## Broad Story Outline
 
@@ -28,7 +28,7 @@ When they arrive at Atemal, they find the city full of Imperium soldiers, and ar
 
 Farshan gives Luko a map, and offers to fight Liyer and Enkidu as necessary to buy Luko and Rhea the time to escape. If Enkidu arrives, he confesses he will not be able to escape, because even though he once trained Enkidu, Enkidu is more powerful than he is.
 
-## The Path of the Phoenix
+### The Path of the Phoenix
 
 Rhea and Luko escape the palace in the middle of the night, knowing that Farshan is sacrificing himself for their sake. They stop near the edge of Atemal long enough to retrieve what initially appears to be a pile of brass scrap, but is actually the rest of Sedryk’s body. Sedryk admits that as a construct, he is not built to fight, but was the instructor of the sisters and possesses vast knowledge of the known lands. Examining the map, he informs them they will be pursuing a path called Karadu, the phoenix path, and that if the map is correct, they will find a rebellion outpost at the end of the map Farshan provided.
 

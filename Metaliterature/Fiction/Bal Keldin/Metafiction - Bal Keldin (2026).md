@@ -12,7 +12,7 @@ linter-yaml-title-alias: Bal Keldin – Bal the Superman (Update)
 
 Originally a light-hearted series focusing on a reality where the pure-hearted Superman Bal is the most popular man in his Superman academy, _I Love Bal Keldin_ seemed to be following conventions we would associate with a romantic comedy harem series, but began to grow into a supernatural thriller involving demons, undead entities, and other Supermen in the Super Academy.
 
-Initially, Bal is interested in the Superman woman, Liyer, but after his love letter for her winds up in the wrong mailbox, he finds the hot-headed orkish Superman woman, Burna, pursuing him. Every time he tries to clear things up, they just get worse and he draws the attention of the Hol’tiin Riva, the Gramurn Maura, and many others, but the more admirers he draw into his orbit, the more rivals challenge him for their affections.
+Initially, Bal is interested in the Superman woman, Liyer, but after his love letter for her winds up in the wrong mailbox, he finds the hot-headed orkish Superman woman, Burna, pursuing him. Every time he tries to clear things up, they just get worse and he draws the attention of the Hol’tiin Riva, the Gramurn Maura, the Kenyu Lakora, and many others, but the more admirers he draws into his orbit, the more rivals challenge him for their affections.
 
 Currently in its second year, the series has begun to incorporate a “Dark World” storyline where ever more creative character designs for new Superman women are competing with each other for Bal, and forcing him to fight off the unwanted attacks of their own prospective suitors.
 
@@ -22,7 +22,7 @@ A new generation of fans loves _I Love Bal Keldin!!_, while the older generation
 
 # Enkidu Spin-Offs
 
-## Eternal: Enkidu Keldin
+## Eternal\~Enkidu Keldin
 
 At the conclusion of _Magical Doppelganger Bal Keldin_, all of the Supermen under Rak’shao are banished to another world, but the unaligned Enkidu finds himself floating in the dark void between realities. This original story explores how he deals with being banished from existence in his original reality and timeline, and travels through various worlds, trying to find a version of Bal with the power and will to restore his existence.
 
@@ -52,7 +52,7 @@ Enkidu is haunted by the memories of both Luko and Rak’shao as he explores the
 
 But when he does, he discovers that the Supermen weren’t absent, only hiding, and that as the most powerful Superman, his once-rival Bal is now a tyrant forcing the peaceful life of the world above. How can he reconcile the admiration he held in his last days before stasis with the mission he now faces? How can he stop a Superman whose powers mirror his own, and with a century of experience in using them?
 
-This series is still ongoing, and the most recent twist has revealed that Bal has the power to resurrect other Supermen, and to pull Supermen from other realities, to fight on his behalf.
+This series is still ongoing, and in April 2026 it was revealed that Bal has the power to resurrect other supermen, and to pull supermen from other realities, to fight on his behalf. At the end of May 2026, another twist revealed that everybody in this world is a superman: It now appears certain that this is the world Bal created using the Super Splitter at the end of Magical Doppelgänger.
 
 ### Fan Response
 
